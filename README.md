@@ -79,11 +79,9 @@ Week6/
 
 ## Screenshot
 
-To visualize the Ubuntu image fetcher tool in action, here are a few screenshots:
-
-```markdown
-![Ubuntu Image Fetcher in action](/Users/florencendinda/Desktop/Screen Shot 2025-09-07 at 15.26.39.png)
-![Fetched_images](/Users/florencendinda/Desktop/Screen Shot 2025-09-07 at 15.27.44.png)
-
-```
+To visualize the Ubuntu Image Fetcher tool in action, here are a few screenshots:
+### Ubuntu Image Fetcher in action
+![Ubuntu Image Fetcher in action](https://github.com/user-attachments/assets/b5ba4e23-33fb-4b55-a329-50a38cdecbe1)
+### Fetched Images
+![Fetched_images](https://github.com/user-attachments/assets/c06e8fe4-505e-45df-9a13-fd5cdc8e82b0)
 
